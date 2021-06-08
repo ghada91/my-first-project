@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9b2544c7-c995-44fc-9db1-770d4d32dda0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rkN4CQMFhF7Q9QepvPq4IpwMui" />
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../final project" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Ghado\PhpstormProjects\final project" />
+      <recent name="C:\Users\Ghado\PhpstormProjects\my first project" />
+      <recent name="C:\Users\Ghado\PhpstormProjects\untitled" />
+      <recent name="C:\Users\Ghado\PhpstormProjects\untitled\images" />
+      <recent name="C:\Users\Ghado\Desktop\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ghado\PhpstormProjects\untitled\vido" />
+      <recent name="C:\Users\Ghado\PhpstormProjects\untitled\jsfolder" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b2544c7-c995-44fc-9db1-770d4d32dda0" name="Default Changelist" comment="" />
+      <created>1619515933311</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619515933311</updated>
+      <workItem from="1619515934850" duration="30631000" />
+      <workItem from="1620120542598" duration="600000" />
+      <workItem from="1620589254057" duration="2008000" />
+      <workItem from="1620636220896" duration="599000" />
+      <workItem from="1620638473531" duration="1886000" />
+      <workItem from="1620640386094" duration="1414000" />
+      <workItem from="1620642295612" duration="1531000" />
+      <workItem from="1621243360062" duration="597000" />
+      <workItem from="1621255149588" duration="4673000" />
+      <workItem from="1621324517009" duration="10718000" />
+      <workItem from="1621683954519" duration="1816000" />
+      <workItem from="1621770296167" duration="37260000" />
+      <workItem from="1622614736363" duration="42464000" />
+      <workItem from="1623089687217" duration="11800000" />
+      <workItem from="1623143746033" duration="11660000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Inspections" timestamp="1619865988354">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1619865988354" />
+    <state x="570" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621775628300">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="570" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1621775628300" />
+    <state x="549" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1623090254687">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="549" y="274" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1600.860@0.0.1600.860" timestamp="1623090254687" />
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1622738554665">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="177" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1622738554665" />
+    <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1623173873367">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1623173873367" />
+    <state x="379" y="172" key="IDE.errors.dialog" timestamp="1622759247507">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="379" y="172" key="IDE.errors.dialog/0.0.1600.860@0.0.1600.860" timestamp="1622759247507" />
+    <state x="300" y="80" key="SettingsEditor" timestamp="1623173351825">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="300" y="80" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1623173351825" />
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1623143799851">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="496" y="254" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1623143799851" />
+    <state x="459" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1621353824158">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="459" y="89" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1600.860@0.0.1600.860" timestamp="1621353824158" />
+  </component>
+</project>
