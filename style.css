@@ -1,28 +1,13 @@
-
 html{
     scroll-behavior: smooth;
 }
 
 
 
-body{
+body {
+    background-color:
+            #ffc7c9;
 
     font-family: 'Poiret One', cursive;
-}
- .footericon{
 
 }
- .pressbtn{
-    background-color: #f68fbb;
-     width: 100px;
-     border-radius: 4px;
-     font-weight: bold;
-     font-size: 19px;
-     margin-left:730px;
-     margin-top: 10px;
-     height: 103px;
-     width: 285px;
-     color: black;
-
-
- }
